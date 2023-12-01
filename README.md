@@ -17,8 +17,8 @@ https://data.wprdc.org/dataset/allegheny-county-walk-scores/resource/682b1df1-a6
 https://pitt.libguides.com/uscensus/alleghenycotracts
 https://data.wprdc.org/dataset/pittsburgh-2014-cdbg-census-tracts/resource/6babf974-85e3-4e2b-af34-3e0c962c54d6
 
-* This data set contains the information about the median household income per neighborhood from 1984.
-https://data.wprdc.org/dataset/1984-community-profiles-a-descriptive-picture-of-communities-in-allegheny-county/resource/2c5b24d6-f807-411c-b342-1cc480f37751
+* This data set contains the information about the number of students enrolled in school in each neighborhood.
+https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment/resource/cbf270fd-891e-49bb-98fb-d6d52c260847
 
 * This data set contains the information about each arrest that happened on the Pittsburgh region. 
 https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
@@ -36,4 +36,4 @@ https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts/resource/
 
 ## About the Repository
 
-* This repository was meant to analyze the best neighborhood in Pittsburhg by using three metrics of our choosing, those being safety, walkability and education.
+* This repository was meant to analyze the best neighborhood in Pittsburgh by using three metrics of our choosing, those being safety, walkability and education.
