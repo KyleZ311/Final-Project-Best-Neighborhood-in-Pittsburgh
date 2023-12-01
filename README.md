@@ -4,7 +4,7 @@
 
 * Kyle Zheng: kyz10@piit.edu - kyz10.ipynb
 * Felipe Castro: fec52@pitt.edu - Felipe's notebook.ipynb
-* Erick Makita: ekm82@pitt.edu - ekm82.ipynb
+* Erick Makita: ekm82@pitt.edu - safety.ipynb
 
 **Canvas Group 28**
 
